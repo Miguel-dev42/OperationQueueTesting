@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D0601936-2C47-4BA4-A697-55167DB1CAB7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OperationQueueTests/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90 - 1a40839a462a1084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OperationQueueTests.ViewModel.connectedDevice.getter : Swift.Optional&lt;OperationQueueTests.Device&gt;"
+                  moduleName = "OperationQueueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelfigueroa/devLocal/Monovo/OperationQueueTests/OperationQueueTests/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90 - 3f6c9f19bbb32c60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OperationQueueTests.ViewModel.connectedDevice.setter : Swift.Optional&lt;OperationQueueTests.Device&gt;"
+                  moduleName = "OperationQueueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelfigueroa/devLocal/Monovo/OperationQueueTests/OperationQueueTests/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90 - a37a88d2702299bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OperationQueueTests.ViewModel.connectedDevice.modify : Swift.Optional&lt;OperationQueueTests.Device&gt;"
+                  moduleName = "OperationQueueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelfigueroa/devLocal/Monovo/OperationQueueTests/OperationQueueTests/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90 - e94cb3a03d89ad05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OperationQueueTests.ViewModel.connectedDevice.modify : Swift.Optional&lt;OperationQueueTests.Device&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OperationQueueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelfigueroa/devLocal/Monovo/OperationQueueTests/OperationQueueTests/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A6593C15-26C6-4535-B0C7-D7DDF27FDD90 - 77db24e3c1ab97ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OperationQueueTests.ViewModel.init() -&gt; OperationQueueTests.ViewModel"
+                  moduleName = "OperationQueueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelfigueroa/devLocal/Monovo/OperationQueueTests/OperationQueueTests/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBB4BED5-F489-4B96-9ED9-45CF37ABEF48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OperationQueueTests/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "connectedSuccessfully()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8F65A90-163C-4011-B461-7496D4580B53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OperationQueueTests/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "connectToDevice()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
